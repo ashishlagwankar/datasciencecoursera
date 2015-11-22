@@ -41,10 +41,7 @@ Repository Contents
 How to
 ------
 
-* clone this repository
-* download compressed raw data
-* unzip raw data and copy the directory 'UCI HAR Dataset' to the cloned repository root directory
-* open a R console and set the working directory to the repository root
+* Go to the parent directory of  'UCI HAR Dataset' 
 * run run_analysis.R script 
 
-In the repository root directory you find the file 'sensordata_avg_by_subject.txt' 
+The result file will be merged_data_avg_by_subject.txt 
